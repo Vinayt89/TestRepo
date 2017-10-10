@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-    	System.out.println( "Dhaval Test" );
+    	System.out.println( "Dhaval Test class" );
     }
 }
