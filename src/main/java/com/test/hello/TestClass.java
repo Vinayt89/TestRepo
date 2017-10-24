@@ -3,7 +3,8 @@ package com.test.hello;
 public class TestClass {
 
 	public static void main(String[] args) {
-	    System.out.println("Hiee!!!!");
-.??
+	   String str = "hello!";
+	    
+	    str = (Integer) str;
 	}
 }
